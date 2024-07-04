@@ -1,3 +1,3 @@
 import pandas as pd
-df=pd.Dataframe({'a':"A",'b':"B"})
+df=pd.DataFrame({'a':"A",'b':"B"})
 print(df)
